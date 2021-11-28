@@ -18,7 +18,7 @@ CREATE
 (steve:COACH{name: "Steve Nash"}),
 (mike:COACH{name: "Mike Budenholzer"}),
 (doc:COACH{name: "Doc Rivers"}),
-(doc:COACH{name: "Stan Van Gundy"}),
+(stan:COACH{name: "Stan Van Gundy"}),
 
 (lakers:TEAM{name:"LA Lakers"}),
 (memphis:TEAM{name:"Memphis Grizzlies"}),
