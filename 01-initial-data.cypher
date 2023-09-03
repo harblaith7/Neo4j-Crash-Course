@@ -1,6 +1,6 @@
 CREATE 
-(lebron:PLAYER{name:"Russell Westbrook", age: 33, number: 0, height: 1.91, weight: 91}),
-(russell:PLAYER{name:"LeBron James", age: 36, number: 6, height: 2.06, weight: 113}),
+(russell:PLAYER{name:"Russell Westbrook", age: 33, number: 0, height: 1.91, weight: 91}),
+(lebron:PLAYER{name:"LeBron James", age: 36, number: 6, height: 2.06, weight: 113}),
 (anthony:PLAYER{name:"Anthony Davis", age: 28, number: 23, height: 2.08, weight: 115}),
 (ja:PLAYER{name:"Ja Morant", age: 22, number: 12, height: 1.91, weight: 79}),
 (luka:PLAYER{name:"Luka Doncic", age: 22, number: 77, height: 2.01, weight: 104}),
