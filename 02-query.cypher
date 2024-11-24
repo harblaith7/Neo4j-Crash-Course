@@ -97,7 +97,7 @@ RETURN player, team
 
 // GET ALL LAKER OR MAVERICKS PLAYERS //
 MATCH (player:PLAYER) - [:PLAYS_FOR] -> (team:TEAM)
-WHERE team.name = "LA Lakers" OR team.name = team.name = "Dallas Mavericks"
+WHERE team.name = "LA Lakers" OR team.name = "Dallas Mavericks"
 RETURN player, team 
 
 // GET ALL PLAYERS THAT MAKE MORE THE 35M //
